@@ -1,0 +1,21 @@
+Settings:
+  prefix: "&f[ &eDP-Banknote &f] "
+  Lang: en_US
+
+  AllowOffHandUse: false
+
+  MaxAmountPerBanknote: 1000000
+  EnableBanknoteAmountLimit: true
+
+  AllowDecimalPoints: false
+
+  BanknoteItem:
+
+  SuggestedAmounts:
+    - 1000
+    - 5000
+    - 10000
+    - 50000
+    - 100000
+    - 500000
+    - 1000000
